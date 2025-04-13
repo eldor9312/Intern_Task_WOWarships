@@ -1,0 +1,34 @@
+{
+  "Belfast": {
+    "type": "Крейсер",
+    "nation": "Великобритания",
+    "damage": 3000,
+    "range": 14,
+    "hp": 30000,
+    "speed": 3
+  },
+  "Hood": {
+    "type": "Линкор",
+    "nation": "Великобритания",
+    "damage": 6000,
+    "range": 22,
+    "hp": 45000,
+    "speed": 1.5
+  },
+  "Hipper": {
+    "type": "Крейсер",
+    "nation": "Германия",
+    "damage": 4000,
+    "range": 18,
+    "hp": 35000,
+    "speed": 2
+  },
+  "Bismarck": {
+    "type": "Линкор",
+    "nation": "Германия",
+    "damage": 7000,
+    "range": 20,
+    "hp": 50000,
+    "speed": 1.3
+  }
+}
